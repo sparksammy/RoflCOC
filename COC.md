@@ -24,5 +24,5 @@ If you get punished, your punishment will be decided depending on severity of th
 ## About Sparksammy
 Samuel (Sparksammy) Lord, if the project is by Sparksammy, is the benevolent dictator for life of this, as well as any project made by him, unless said otherwise. However, if he doesn't own a project, he isn't the owner/benevolent dictator. Simple as that.
 
-## About basing your work off of the Sparksammy COC.
+## About basing your work off of the Roflcraft COC.
 This work uses the Creative Commons Attribution-ShareAlike 4.0 International license. To learn more, go here: https://creativecommons.org/licenses/by-sa/4.0/
