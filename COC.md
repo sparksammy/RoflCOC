@@ -13,6 +13,7 @@ We, overall, must follow one simple rule to each other: *Stay excellent to each 
 * Samuel (Sparksammy) Lord can do whatever he wants.
   * This is just so that the owner (Samuel Lord) never gets kicked or banned from his own project[s].
 * The owner can do what they want, too. (If the owner is Sparksammy, then see above.)
+* Do not build anything that causes lag
 * "The only way to do great work is to love what you do." --Steve Jobs
 
 ## About real names.
